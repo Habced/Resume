@@ -1,12 +1,16 @@
 {
   "require" : {
-    "silex/silex": "^2.0.4",
     "monolog/monolog": "^1.22",
     "twig/twig": "^2.0",
     "symfony/twig-bridge": "^3",
-    "alrik11es/cowsayphp": "^1.2"
+    "alrik11es/cowsayphp": "^1.2",
+    "symfony/flex": "^1.9"
   },
   "require-dev": {
     "heroku/heroku-buildpack-php": "*"
-  }
+	},
+	"conflict": {
+		"symfony/symfony": "*",
+    "silex/silex": "*"
+	}
 }
