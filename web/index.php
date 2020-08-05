@@ -22,6 +22,12 @@ $app->get('/', function() use($app) {
   return $app['twig']->render('index.twig');
 });
 
+
+$app->get('/algo', function() use($app) {
+  $app['monolog']->addDebug('logging output.');
+  return $app['twig']->render('algo.twig');
+});
+
 // $app->get('/cowsay', function() use($app) {
 //   $app['monolog']->addDebug('cowsay');
 //   return "<pre>".\Cowsayphp\Cow::say("Cool beans")."</pre>";
