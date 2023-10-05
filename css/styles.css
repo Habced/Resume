@@ -10049,6 +10049,10 @@ p.lead {
   font-size: 1.5rem;
 }
 
+.header-inline h3, .header-inline p, .header-inline span, .header-inline div {
+  display: inline;
+}
+
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
   letter-spacing: 0.05rem;
