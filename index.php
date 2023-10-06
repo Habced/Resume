@@ -119,7 +119,7 @@
 										<li><em>Leadership</em> - Directing the squad in the execution of their duties, training, operations, and administration.</li>
 										<li><em>Planning</em> - Developing operation plans and coordinating with other commanders.</li>
 										<li><em>Maintaining Discipline</em> - Maintaining self and squad discipline.</li>
-										<li><em>Ensuring Safety and Welfare</em> - Responsible for the safety and welfare of the squad; during training, operations, and recreational time. Making sure everyone on the squad in properly equipped and fed, but also addressing issues regarding morale, discipline, and actions.</li>
+										<li><em>Ensuring Safety and Welfare</em> - Responsible for the safety and welfare of the squad; during training, operations, and recreational time. Making sure everyone on the squad in properly equipped and ready, but also addressing issues regarding morale, discipline, and actions.</li>
 										<li><em>Communcation and Coordination</em> - Making sure to communicate effectively with the squad as well as other commanders.</li>
 									</ul>
 								</ul>
@@ -140,8 +140,8 @@
 					<ul class="fa-ul mb-0">
 						<li><span class="fa-li"><i class="devicon-html5-plain"></i></span>HTML5</li>
 						<li><span class="fa-li"><i class="devicon-css3-plain"></i></span>CSS & Scss</li>
-						<li><span class="fa-li"><i class="devicon-javascript-plain"></i></span>Javascript</li>
-						<li><span class="fa-li"><i class="devicon-typescript-plain"></i></span>Typescript</li>
+						<li><span class="fa-li"><i class="devicon-javascript-plain"></i></span>JavaScript</li>
+						<li><span class="fa-li"><i class="devicon-typescript-plain"></i></span>TypeScript</li>
 						<li><span class="fa-li"><i class="devicon-php-plain"></i></span>PHP</li>
 						<li><span class="fa-li"><i class="devicon-java-plain"></i></span>Java</li>
 						<li><span class="fa-li"><i class="devicon-kotlin-plain"></i></span>Kotlin</li>
