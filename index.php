@@ -30,7 +30,7 @@
 					<li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
 					<li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Experience</a></li>
 					<li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
-					<li class="nav-item"><a class="nav-link js-scroll-trigger" href="#projects">Projects</a></li>
+					<!-- <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#projects">Projects</a></li> -->
 					<li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
 					<li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interests</a></li>
 					<!-- <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Awards</a></li> -->
@@ -50,12 +50,12 @@
 						+82 (010) 5842-9798 &nbsp;
 						<a href="mailto:haseung.lee.1997@gmail.com">haseung.lee.1997@gmail.com</a>
 					</div>
-					<p class="lead mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
+					<p class="lead mb-5">Looking for a job in software engineering.</p>
 					<div class="social-icons">
-						<a class="social-icon" href="#"><i class="fab fa-linkedin-in"></i></a>
-						<a class="social-icon" href="#"><i class="fab fa-github"></i></a>
-						<a class="social-icon" href="#"><i class="fab fa-twitter"></i></a>
-						<a class="social-icon" href="#"><i class="fab fa-facebook-f"></i></a>
+						<a class="social-icon" href="https://www.linkedin.com/in/haseung-lee-065534294"><i class="fab fa-linkedin-in"></i></a>
+						<a class="social-icon" href="https://github.com/Habced"><i class="fab fa-github"></i></a>
+						<!-- <a class="social-icon" href="#"><i class="fab fa-twitter"></i></a>
+						<a class="social-icon" href="#"><i class="fab fa-facebook-f"></i></a> -->
 					</div>
 				</div>
 			</section>
@@ -79,7 +79,7 @@
 									<li> Lead and attended business meetings with suppliers. The end product is now patented. <u>NDA</u> </li>
 									<li> Participated in meetings about software needs and limitations of PCBs and embedded software. </li>
 									<li> The platforms I built are now being used for B2G, B2B, and B2C services. <u>NDA</u> </li>
-									<li> Built several apps that were presented on and won grand prizes as well as significant funding. <a href="https://play.google.com/store/apps/details?id=tboxfit.app.tboxapp">eg</a> </li>
+									<li> Built several <a href="https://play.google.com/store/apps/details?id=tboxfit.app.tboxapp">apps</a> that were presented on and won grand prizes as well as significant funding. </li>
 									<ul style=“list-style-type:circle”>
 										<li> The most notable awards include... </li>
 										<ol>
@@ -122,10 +122,6 @@
 										<li><em>Ensuring Safety and Welfare</em> - Responsible for the safety and welfare of the squad; during training, operations, and recreational time. Making sure everyone on the squad in properly equipped and fed, but also addressing issues regarding morale, discipline, and actions.</li>
 										<li><em>Communcation and Coordination</em> - Making sure to communicate effectively with the squad as well as other commanders.</li>
 									</ul>
-									<li>Key acheivements include:</li>
-									<ul>
-										<li></li>
-									</ul>
 								</ul>
 							</p>
 
@@ -143,7 +139,7 @@
 					<!-- TODO add typescript, django, python, AWS, flutter, dart, java, android studio, kotlin, php, firebase, heroku, mysql, nosql, cleardb,  -->
 					<ul class="fa-ul mb-0">
 						<li><span class="fa-li"><i class="devicon-html5-plain"></i></span>HTML5</li>
-						<li><span class="fa-li"><i class="devicon-css3-plain"></i></span>css & scss</li>
+						<li><span class="fa-li"><i class="devicon-css3-plain"></i></span>CSS & Scss</li>
 						<li><span class="fa-li"><i class="devicon-javascript-plain"></i></span>Javascript</li>
 						<li><span class="fa-li"><i class="devicon-typescript-plain"></i></span>Typescript</li>
 						<li><span class="fa-li"><i class="devicon-php-plain"></i></span>PHP</li>
@@ -218,12 +214,9 @@
 			</section>
 			<hr class="m-0" />
 			<!-- Projects-->
-			<section class="resume-section" id="projects">
+			<!-- <section class="resume-section" id="projects">
 				<div class="resume-section-content">
 					<h2 class="mb-5">Projects</h2>
-					<!-- Trackboard -->
-					<!-- Leealgo -->
-					<!-- Leepath -->
 					<div class="d-flex flex-column flex-md-row justify-content-between mb-5">
 						<div class="flex-grow-1">
 							<h3 class="mb-0">Senior Web Developer</h3>
@@ -234,7 +227,7 @@
 					</div>
 				</div>
 			</section>
-			<hr class="m-0" />
+			<hr class="m-0" /> -->
 			<!-- Education-->
 			<section class="resume-section" id="education">
 				<div class="resume-section-content">
@@ -246,17 +239,21 @@
 							<div class="flex-shrink-0"><i class="fas fa-calendar-alt"></i>&nbsp;2016 March - 2020 December</div>
 						
 							<p>
-								Notable Project: Trackboard <a href="https://trackboard-d41a2.web.app/index.html">Hosted</a> (Not maintained)
-								<br>
-								My role involved UI/UX prototyping and design, Human Computer Interaction implementation, surveying potential users, documentation, and preparing presentations. 
-								<br>
-								Technologies used: Git, Figma, Firebase, noSql, HTML, Css,
-								<br>
-								Notable Project: Merchandising Society <a href="https://merchandising-society.web.app/">Hosted</a> (Not maintained)
-								<br>
-								Built the website for the Fashion Institute of Technology’s Merchandising Society.
-								My role involved design, documentation, full-stack development, and presentations. 
-								Technologies used: Git, Figma, React, Django, Firebase, Heroku, EC2, S3, RESTful API
+								<ul>
+									<li>Notable Project: <a href="https://trackboard-d41a2.web.app/index.html">Trackboard</a> (Not maintained)</li>
+									<ul>
+										<li>My role involved UI/UX prototyping and design, Human Computer Interaction implementation, surveying potential users, documentation, and preparing presentations. </li>
+										<li>Technologies used: Git, Figma, Firebase, noSql, HTML, CSS</li>
+									</ul>
+									<li>Notable Project: <a href="https://merchandising-society.web.app/">Merchandising Society</a> (Not maintained)</li>
+									<ul>
+										<li>Built the website for the Fashion Institute of Technology’s Merchandising Society.
+								My role involved design, documentation, full-stack development, and presentations. </li>
+										<li>Technologies used: Git, Figma, React, Django, Firebase, Heroku, EC2, S3, RESTful API</li>
+									</ul>
+								</ul>
+								
+								
 							</p>
 						</div>
 					</div>
@@ -267,6 +264,17 @@
 			<section class="resume-section" id="interests">
 				<div class="resume-section-content">
 					<h2 class="mb-5">Interests</h2>
+					<p> 
+						In addition to my passion for technology and software engineering, I believe in maintaining a balanced and fulfilling lifestyle. Here are some of my interests outside the tech realm:
+						<ul>
+							<li>Hiking</li>
+							<li>Cooking</li>
+							<li>Pottery</li>
+							<li>Finding Delicious Places to Eat</li>
+							<li>Visiting Nice Cafes</li>
+							<li>Exercising</li>
+						</ul>
+					</p>
 					<!-- <p>Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an avid skier and novice ice climber. During the warmer months here in Colorado, I enjoy mountain biking, free climbing, and kayaking.</p>
 					<p class="mb-0">When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world.</p> -->
 				</div>
